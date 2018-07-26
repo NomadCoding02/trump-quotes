@@ -1,7 +1,7 @@
 # Trump-Quotes
 Filterable list that contains some of the most popular quotes by Donald Trump.
 
-Prerequisites: npm
+Pre-requisites: npm
 
 To run the project, open command prompt, navigate into the folder and run **npm install**
 
